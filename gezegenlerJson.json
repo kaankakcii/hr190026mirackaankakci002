@@ -1,0 +1,67 @@
+{
+	"Gezegenler": [
+		{
+			"GezegenAdi": "Güneş",
+			"Capi": "1 324 332",
+			"GunUzunlugu": "37 Gün",
+			"Turu": "Yıldız",
+			"Tanım": "Güneş,Güneş Sistemi'nin merkezinde yer alan yıldız. Orta büyüklükte bir yıldız olan Güneş, tek başına Güneş Sistemi kütlesinin % 99,8'ini oluşturur. Geri kalan kütle Güneş'in çevresinde dönen gezegenler, asteroitler, gök taşları, kuyruklu yıldızlar ve kozmik tozlardan oluşur. Gün ışığı şeklinde Güneş'ten yayılan enerji, fotosentez yoluyla Dünya üzerindeki hayatın hemen hemen tamamının var olmasını sağlar ve Dünya'nın iklimi ile hava durumunun üzerinde önemli etkilerde bulunur.",
+			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/sunPng.png",
+			"KapakResim": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/sunKapak.jpg"
+		},
+
+		{
+			"GezegenAdi": "Merkür",
+			"Capi": "4 884",
+			"GunUzunlugu": "176 Gün",
+			"Turu": "Gezegen",
+			"Tanım": "Merkür Güneş Sistemi'ndeki en küçük ve Güneş'e en yakın gezegen.[a] Yaklaşık 88 Dünya gününe eşit yörünge süresi ile Güneş Sistemi'ndeki diğer gezegenlerden daha hızlıdır. Dünya'dan bakıldığında, kendi yörüngesi etrafında 116 günde hareket ettiği görünür. Bilinen hiç doğal uydusu yoktur. Adını tanrıların habercisi Roma tanrısı Merkür'den alır.",
+			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/mercuryPng.png",
+			"KapakResim": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/mercuryKapak.jpg"
+		},
+
+		{
+			"GezegenAdi": "Venüs",
+			"Capi": "12 346",
+			"GunUzunlugu": "243 Gün",
+			"Turu": "Gezegen",
+			"Tanım": "Venüs, Güneş Sisteminde, Güneş'e uzaklık bakımından ikinci sıradaki, sıcaklık bakımından da birinci sıradaki gezegen.",
+			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/venusPng.png",
+			"KapakResim": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/venusKapak.jpg"
+		},
+
+		{
+			"GezegenAdi": "Dünya",
+			"Capi": "12 709",
+			"GunUzunlugu": "24 Saat",
+			"Turu": "Gezegen",
+			"Tanım": "Dünya,[d] Güneş Sistemi'nde Güneş'e en yakın üçüncü gezegen olup şu an için üzerinde yaşam ve sıvı su barındırdığı bilinen tek astronomik cisimdir. Radyometrik tarihleme ve diğer kanıtlara göre 4,5 milyar yıldan fazla süre önce oluşmuştur. Dünya'nın yerçekimi, uzaydaki diğer nesnelerle, özellikle Güneş'le ve tek doğal uydusu Ay'la etkileşime girer. Dünya'nın Güneş'in etrafındaki yörüngesi, 365,256 güneş gün, yani bir yıldız yılı sürer. Bu süre içerisinde Dünya, kendi ekseni etrafında 366,265 kez döner.",
+			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/wodPng.png",
+			"KapakResim": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/wodKapak.jpg"
+		},
+
+		{
+			"GezegenAdi": "Ay",
+			"Capi": "3 483",
+			"Gun Uzunlugu": "27 gün",
+			"Turu": "Uydu",
+			"Tanım": "Ay, Dünya'nın tek doğal uydusudur. Güneş Sistemi içinde beşinci büyük doğal uydudur. Dünya ile Ay arasında ortalama merkezden merkeze uzaklık 384.403 km, yani Dünya'nın çapının yaklaşık otuz katı kadardır. Ay'ın çapı 3.474 km'dir,[1] bu da Dünya çapının dörtte birinden biraz fazladır. Dolayısıyla Ay'ın hacmi Dünya'nın hacminin %2'sidir. Kütlesi Dünya kütlesinden 81,3 kat daha düşüktür. Yüzeyinde kütleçekim etkisi yer çekiminin yaklaşık %17'sidir. Ay, Dünya'nın yörüngesinde bir turunu 27 gün 7 saatte tamamlar. Dünya, Ay ve Güneş geometrisinde görülen periyodik değişimler sonucunda her 29,5 günde tekrar eden Ay'ın evreleri oluşur.",
+			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/moonPng.png",
+			"KapakResim": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/moonKapak.jpg"
+		},
+
+		{
+			"GezegenAdi": "Mars",
+			"Capi": "6 767",
+			"Gun Uzunlugu": "24 saat",
+			"Turu": "Gezegen",
+			"Tanım": "Mars, Güneş Sisteminin Güneşten itibaren dördüncü gezegeni. Roma mitolojisindeki savaş tanrısı Mars'a ithafen adlandırılmıştır. Yüzeyindeki yaygın demir oksitten dolayı kızılımsı bir görünüme sahip olduğu için Kızıl Gezegen  de denir.",
+			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/marsPng.png",
+			"KapakResim": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/marsKapak.jpg"
+		}
+
+
+
+	]
+
+}
