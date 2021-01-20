@@ -43,7 +43,7 @@
 		{
 			"GezegenAdi": "Ay",
 			"Capi": "3 483",
-			"Gun Uzunlugu": "27 gün",
+			"GunUzunlugu": "27 gün",
 			"Turu": "Uydu",
 			"Tanım": "Ay, Dünya'nın tek doğal uydusudur. Güneş Sistemi içinde beşinci büyük doğal uydudur. Dünya ile Ay arasında ortalama merkezden merkeze uzaklık 384.403 km, yani Dünya'nın çapının yaklaşık otuz katı kadardır. Ay'ın çapı 3.474 km'dir,[1] bu da Dünya çapının dörtte birinden biraz fazladır. Dolayısıyla Ay'ın hacmi Dünya'nın hacminin %2'sidir. Kütlesi Dünya kütlesinden 81,3 kat daha düşüktür. Yüzeyinde kütleçekim etkisi yer çekiminin yaklaşık %17'sidir. Ay, Dünya'nın yörüngesinde bir turunu 27 gün 7 saatte tamamlar. Dünya, Ay ve Güneş geometrisinde görülen periyodik değişimler sonucunda her 29,5 günde tekrar eden Ay'ın evreleri oluşur.",
 			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/moonPng.png",
@@ -53,7 +53,7 @@
 		{
 			"GezegenAdi": "Mars",
 			"Capi": "6 767",
-			"Gun Uzunlugu": "24 saat",
+			"GunUzunlugu": "24 saat",
 			"Turu": "Gezegen",
 			"Tanım": "Mars, Güneş Sisteminin Güneşten itibaren dördüncü gezegeni. Roma mitolojisindeki savaş tanrısı Mars'a ithafen adlandırılmıştır. Yüzeyindeki yaygın demir oksitten dolayı kızılımsı bir görünüme sahip olduğu için Kızıl Gezegen  de denir.",
 			"ResimUrl": "https://raw.githubusercontent.com/kaankakcii/hr190026mirackaankakci/main/image/marsPng.png",
