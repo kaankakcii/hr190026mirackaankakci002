@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="logo_layout_width">192dp</dimen>
+    <dimen name="logo_layout_height">207dp</dimen>
+    <dimen name="bilgi_kapak_height">236dp</dimen>
+    <dimen name="recylerview_height">0dp</dimen>
+    <dimen name="cardview_padding">16dp</dimen>
+    <dimen name="cardview_height">120dp</dimen>
+    <dimen name="text_size">14dp</dimen>
+    <dimen name="margin_left">16dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_right">16dp</dimen>
+    <dimen name ="activity_detail_kapak_height">200dp</dimen>
+    <dimen name ="activity_detail_kapak_padding">10dp</dimen>
+    <dimen name ="activity_detail_kapak_baslık_size">30dp</dimen>
+    <dimen name ="activity_detail_kapak_detay_size">15dp</dimen>
+    <dimen name="logoDp">0dp</dimen>
+
+
+
+</resources>

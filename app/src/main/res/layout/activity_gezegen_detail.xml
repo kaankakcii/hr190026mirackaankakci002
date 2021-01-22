@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.GezegenDetail">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+>
+
+            <ImageView
+                android:id="@+id/imgDetayKapak"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/activity_detail_kapak_height"
+                android:scaleType="fitXY"
+                app:srcCompat="@drawable/bilgikapak" />
+
+            <TextView
+                android:id="@+id/txtBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_detail_kapak_padding"
+                android:text="TextView"
+                android:textColor="@color/detayActivityBaslık"
+                android:textSize="@dimen/activity_detail_kapak_baslık_size" />
+
+            <TextView
+                android:id="@+id/txtDetay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/activity_detail_kapak_padding"
+                android:text="TextView"
+                android:textSize="@dimen/activity_detail_kapak_detay_size" />
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

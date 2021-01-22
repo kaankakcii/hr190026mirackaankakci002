@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HR190026_MiracKaanKakciFinal</string>
+    <string name="alert_title">İnternete Bağlı Değilsiniz!</string>
+    <string name="alert_message">Uygulamayı Kullanmak İçin İnternete Bağlanın.</string>
+    <string name="alert_positive_button">Ayarlara Git</string>
+    <string name="alert_negative_button">Çıkış</string>
+    <string name="gezegengunse">Gunes</string>
+    <string name="gunesgunuzunlugu">37 Gün</string>
+    <string name="gunesgunucapi">1 324 332</string>
+    <string name="gezegen_adiBilgi">Gezegen Adi</string>
+    <string name="gezegen_gunuzunluguBilgi">Gezegen Gün Uzunluğu</string>
+    <string name="gezegen_turuBilgi">Gezegen Turu</string>
+    <string name="gezegen_capi_bilgi">Gezegen Çapı</string>
+    <string name="listScreen_alert_title_cıkıs_mesaj">Çıkış Yapmak İstiyor musunuz?</string>
+    <string name="listScreen_alert_title_cıkıs_evet">Evet</string>
+    <string name="listScreen_alert_title_cıkıs_hayır">Hayır</string>
+    <string name="listScreen_alert_title_cıkıs_baslık"></string>
+</resources>
